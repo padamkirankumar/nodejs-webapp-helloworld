@@ -1,2 +1,2 @@
 # nodejs-webapp-helloworld
-# docker build . -t <your username>/node-web-app
+# docker build -t kiran/node-web-app .
